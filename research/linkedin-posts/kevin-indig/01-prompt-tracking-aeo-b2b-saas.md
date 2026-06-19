@@ -1,14 +1,14 @@
 ---
 expert: Kevin Indig
-url: TBD (paste post permalink to backfill exact date)
-date: 2026 (recent; exact date TBD from permalink)
+url: https://www.linkedin.com/posts/kevinindig_good-prompt-tracking-starts-with-sample-design-activity-7470197035565002752-T8ow
+date: 2026-06-09
 collected: 2026-06-19
 topic: AEO/GEO measurement — designing a prompt-tracking panel for B2B SaaS
 has_image: yes (Growth Memo infographic — transcribed below)
 ---
 
 # What good prompt tracking looks like in practice (B2B SaaS, CRM category)
-**Kevin Indig** · [View post](https://www.linkedin.com/in/kevinindig/recent-activity/all/)
+**Kevin Indig** · [View post](https://www.linkedin.com/posts/kevinindig_good-prompt-tracking-starts-with-sample-design-activity-7470197035565002752-T8ow)
 
 ## Post text
 Good prompt tracking starts with sample design.
