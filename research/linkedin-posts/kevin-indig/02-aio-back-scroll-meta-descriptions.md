@@ -1,14 +1,14 @@
 ---
 expert: Kevin Indig
-url: TBD (paste post permalink to backfill exact date)
-date: 2026 (recent; exact date TBD from permalink)
+url: https://www.linkedin.com/posts/kevinindig_475-of-all-scrolling-on-aio-serps-goes-activity-7465722306871439360-q12R
+date: 2026-05-28
 collected: 2026-06-19
 topic: AIO SERP scroll behavior — implications for meta titles/descriptions
 has_image: yes (Growth Memo chart, source: Clickstream Solutions + Surfer SEO — transcribed below)
 ---
 
 # 47.5% of scrolling on AIO SERPs goes backward
-**Kevin Indig** · [View post](https://www.linkedin.com/in/kevinindig/recent-activity/all/)
+**Kevin Indig** · [View post](https://www.linkedin.com/posts/kevinindig_475-of-all-scrolling-on-aio-serps-goes-activity-7465722306871439360-q12R)
 
 ## Post text
 47.5% of all scrolling on AIO SERPs goes backward, compared to 27% without an AIO on the page.
