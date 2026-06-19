@@ -1,14 +1,14 @@
 ---
 expert: Brendan Hufford
-url: TBD (paste post permalink to backfill exact date)
-date: 2026 (recent; exact date TBD from permalink)
+url: https://www.linkedin.com/posts/brendanhufford_breaking-google-just-published-an-official-activity-7462139963636338688-Gizj
+date: 2026-05-18
 collected: 2026-06-19
 topic: AEO/GEO skepticism — why to treat Google's official AI-search guidance as one data point
 related: jake-ward/02-seo-aeo-geo-aio-2026.md (the opposing "it's all just SEO" view)
 ---
 
 # "Google says AEO/GEO is still SEO." I don't believe them.
-**Brendan Hufford** · [View post](https://www.linkedin.com/in/brendanhufford/recent-activity/all/)
+**Brendan Hufford** · [View post](https://www.linkedin.com/posts/brendanhufford_breaking-google-just-published-an-official-activity-7462139963636338688-Gizj)
 
 ## Post text
 Breaking: Google just published an official guide saying AEO and GEO are "still SEO."
