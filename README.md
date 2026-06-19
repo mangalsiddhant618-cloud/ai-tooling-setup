@@ -1,8 +1,76 @@
-# AI Tooling Setup
+# AI Tooling Setup & Research Project
 
-A short, honest log of setting up an AI-assisted development environment: the tools I
-installed, the steps I followed, and the problems I ran into along the way (and how I
-got past them).
+This repo has two parts:
+
+1. **[Research project](#research-project-ai-powered-seo-content-production)** — a
+   curated, source-backed knowledge base on *AI-powered SEO content production for
+   B2B SaaS*, built from 10 genuine practitioners.
+2. **[Tooling setup log](#environment)** — how the AI dev environment was set up
+   (tools, steps, and issues solved).
+
+---
+
+# Research project: AI-powered SEO content production
+
+**Topic:** AI-powered SEO content production for B2B SaaS.
+
+### Why this topic
+Of the eight options, this is the one that's useful *beyond* any single job: AI content
+production is the most transferable, future-proof marketing skill, and the underlying
+playbook (programmatic SEO, AI content workflows, topical authority, AEO/GEO) applies
+to any industry — not just SaaS. It also has the deepest bench of practitioners who post
+on collectable channels (YouTube + LinkedIn), which made for a substantial collection.
+
+### Why these 10 experts
+I selected on four hard filters — they **operate** (run an agency/tool/in-house growth
+or rank their own sites), they **show their work** (case studies with numbers, controlled
+experiments, original data), they're **recent + active**, and they're **not grifters**.
+I deliberately avoided "Top 10 SEO experts" listicles (SEO-gamed and circular) and
+sourced names from where practitioners actually argue and get cited. Full reasoning and
+per-person evidence: **[`research/sources.md`](research/sources.md)**.
+
+The 10: **Jake Ward** (Byword, AI content at scale) · **Nick Jordan** (content-first
+scaling) · **Kevin Indig** (ex-Shopify/G2/Atlassian, data) · **Bernard Huang**
+(Clearscope, AEO/GEO) · **Koray Gübür** (semantic SEO / topical authority) ·
+**Eli Schwartz** (product-led SEO) · **Brendan Hufford** (SaaS SEO/AEO) ·
+**Cyrus Shepard** (SEO experiments) · **Aleyda Solís** (international + AI search) ·
+**Gael Breton** (content sites + AI workflows).
+
+### What was collected
+- **8 YouTube transcripts** (~388k characters) across 5 experts — Nick Jordan, Koray
+  Gübür (×2), Aleyda Solís, Bernard Huang (×2), Gael Breton (×2) — in
+  [`research/youtube-transcripts/`](research/youtube-transcripts/).
+- **Annotated index of written work** (newsletters, blog case studies, data studies) for
+  all 10 — [`research/other/newsletters-and-articles.md`](research/other/newsletters-and-articles.md).
+- **A "practitioner vs. packaging" contrast case** (Julian Goldie) documenting how I
+  separated signal from sales — [`research/other/practitioner-vs-packaging.md`](research/other/practitioner-vs-packaging.md).
+- **LinkedIn posts** — in progress; collected manually (no free LinkedIn API; scraping
+  violates ToS) into [`research/linkedin-posts/`](research/linkedin-posts/).
+
+### How the transcripts were collected (the "API/technical" part)
+YouTube transcripts were pulled programmatically with the free
+[`youtube-transcript-api`](https://pypi.org/project/youtube-transcript-api/) Python
+package (no API key required) via [`scripts/fetch_transcripts.py`](scripts/fetch_transcripts.py).
+To reproduce:
+```bash
+python3 -m venv .venv
+.venv/bin/pip install -r scripts/requirements.txt
+.venv/bin/python scripts/fetch_transcripts.py
+```
+
+### Repository structure
+```
+research/
+  sources.md                  # the 10 experts: links, dates, why-chosen evidence
+  youtube-transcripts/        # transcripts organized by author / video id
+  linkedin-posts/             # posts organized by author (manually collected)
+  other/                      # annotated written-content index + contrast case
+scripts/
+  fetch_transcripts.py        # YouTube transcript collector
+  requirements.txt
+```
+
+---
 
 ## Environment
 
