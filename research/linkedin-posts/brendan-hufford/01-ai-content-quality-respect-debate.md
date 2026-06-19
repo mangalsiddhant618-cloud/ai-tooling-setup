@@ -1,13 +1,13 @@
 ---
 expert: Brendan Hufford
-url: TBD (paste post permalink to backfill exact date)
-date: 2026 (recent; exact date TBD from permalink)
+url: https://www.linkedin.com/posts/brendanhufford_every-piece-of-lazy-ai-content-says-the-same-activity-7467934376903905280-M0_Z
+date: 2026-06-03
 collected: 2026-06-19
 topic: AI content quality — "create better, not care less" + a real AI workflow
 ---
 
 # Lazy AI content tells your reader their time is worth less than yours
-**Brendan Hufford** · [View post](https://www.linkedin.com/in/brendanhufford/recent-activity/all/)
+**Brendan Hufford** · [View post](https://www.linkedin.com/posts/brendanhufford_every-piece-of-lazy-ai-content-says-the-same-activity-7467934376903905280-M0_Z)
 
 ## Post text
 Every piece of lazy AI content says the same thing to your reader: your time is worth less than mine.
