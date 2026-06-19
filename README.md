@@ -61,10 +61,18 @@ python3 -m venv .venv
 .venv/bin/python scripts/fetch_transcripts.py
 ```
 
+### Synthesis
+- **[`research/playbook.md`](research/playbook.md)** — the collected material distilled
+  into one operating playbook for AI-powered SEO content production (B2B SaaS): mental
+  models, topic architecture, the AI-assisted production workflow, AEO/GEO tactics,
+  measurement, and the unresolved practitioner debates. Every point links back to its
+  source transcript or post.
+
 ### Repository structure
 ```
 research/
   sources.md                  # the 10 experts: links, dates, why-chosen evidence
+  playbook.md                 # synthesis: everything distilled into one playbook
   youtube-transcripts/        # transcripts organized by author / video id
   linkedin-posts/             # posts organized by author (manually collected)
   other/                      # annotated written-content index + contrast case
