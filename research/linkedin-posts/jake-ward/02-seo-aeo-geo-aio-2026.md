@@ -1,13 +1,13 @@
 ---
 expert: Jake Ward
-url: TBD (paste post permalink to backfill exact date)
-date: 2026 (recent; exact date TBD from permalink)
+url: https://www.linkedin.com/posts/jakezward_seo-in-2026-if-were-really-being-honest-activity-7462108983869345792--qw_
+date: 2026-05-18
 collected: 2026-06-19
 topic: SEO vs AEO/GEO/AIO — cutting through the acronym hype
 ---
 
 # SEO in 2026 (if we're REALLY being honest)
-**Jake Ward** · [View post](https://www.linkedin.com/in/jakezward/recent-activity/all/)
+**Jake Ward** · [View post](https://www.linkedin.com/posts/jakezward_seo-in-2026-if-were-really-being-honest-activity-7462108983869345792--qw_)
 
 ## Post text
 SEO in 2026 (if we're REALLY being honest).
