@@ -128,15 +128,17 @@ The 10 below span the full production pipeline: **scaling** (Ward, Jordan),
 
 | # | Expert | LinkedIn | YouTube transcript | Newsletter/Other |
 |---|--------|----------|--------------------|------------------|
-| 1 | Jake Ward | ☐ | – | – |
-| 2 | Nick Jordan | ☐ | ☐ | – |
-| 3 | Kevin Indig | ☐ | – | ☐ |
-| 4 | Bernard Huang | ☐ | ☐ | – |
-| 5 | Koray Gübür | – | ☐ | ☐ |
-| 6 | Eli Schwartz | ☐ | – | ☐ |
-| 7 | Brendan Hufford | ☐ | – | ☐ |
-| 8 | Cyrus Shepard | ☐ | – | ☐ |
-| 9 | Aleyda Solís | – | ☐ | ☐ |
-| 10 | Gael Breton | – | ☐ | – |
+| 1 | Jake Ward | ☐ | – | ☑ (links) |
+| 2 | Nick Jordan | ☐ | ☑ (1) | ☑ (links) |
+| 3 | Kevin Indig | ☐ | – | ☑ (links) |
+| 4 | Bernard Huang | ☐ | ☑ (2) | ☑ (links) |
+| 5 | Koray Gübür | – | ☑ (2) | ☑ (links) |
+| 6 | Eli Schwartz | ☐ | – | ☑ (links) |
+| 7 | Brendan Hufford | ☐ | – | ☑ (links) |
+| 8 | Cyrus Shepard | ☐ | – | ☑ (links) |
+| 9 | Aleyda Solís | – | ☑ (1) | ☑ (links) |
+| 10 | Gael Breton | – | ☑ (2) | ☑ (links) |
 
-(☐ = planned/in progress; checked off as collected.)
+(☑ = collected, ☐ = pending. YouTube transcripts in `/research/youtube-transcripts/`;
+annotated written-content links in `/research/other/newsletters-and-articles.md`.
+Remaining: manual LinkedIn post collection — see `/research/linkedin-posts/README.md`.)
