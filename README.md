@@ -61,18 +61,25 @@ python3 -m venv .venv
 .venv/bin/python scripts/fetch_transcripts.py
 ```
 
-### Synthesis
+### Synthesis, audit & application (going past "collect")
 - **[`research/playbook.md`](research/playbook.md)** — the collected material distilled
-  into one operating playbook for AI-powered SEO content production (B2B SaaS): mental
-  models, topic architecture, the AI-assisted production workflow, AEO/GEO tactics,
-  measurement, and the unresolved practitioner debates. Every point links back to its
-  source transcript or post.
+  into one operating playbook (mental models, topic architecture, AI-assisted production
+  workflow, AEO/GEO, measurement, and the unresolved practitioner debates). Every point
+  links back to its source.
+- **[`research/fact-check.md`](research/fact-check.md)** — independent verification of the
+  experts' headline claims, each rated *verified / overstated / unverified* with sources.
+  Auditing the sources, not just trusting them.
+- **[`research/sample-content/`](research/sample-content/)** — a production-ready buyer's
+  guide that *applies* the playbook to 100Hires' own domain (AI ATS for startups), with an
+  appendix showing the tactics used and what was fact-checked.
 
 ### Repository structure
 ```
 research/
   sources.md                  # the 10 experts: links, dates, why-chosen evidence
   playbook.md                 # synthesis: everything distilled into one playbook
+  fact-check.md               # independent verification of the experts' claims
+  sample-content/             # production-ready piece applying the playbook
   youtube-transcripts/        # transcripts organized by author / video id
   linkedin-posts/             # posts organized by author (manually collected)
   other/                      # annotated written-content index + contrast case
