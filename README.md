@@ -14,6 +14,28 @@ This repo has two parts:
 
 **Topic:** AI-powered SEO content production for B2B SaaS.
 
+### Why this project exists (the strategic read)
+
+This isn't a research exercise for its own sake. In 2026, B2B buyers increasingly
+*discover* software by asking ChatGPT, Perplexity, and Google AI Overviews — not just by
+Googling. So for a content-led SaaS company, **SEO has become AI-search visibility (AEO/
+GEO)**, and the companies that get *cited* in AI answers win the discovery layer.
+
+A small, fast team can't outspend incumbents on ads or backlinks. Its asymmetric edge is
+**producing better, AI-optimized content faster — using AI tools with human judgment on
+top.** That requires exactly three things, which is what this repo is:
+
+1. **A map of who actually knows how to do this** → [`research/sources.md`](research/sources.md)
+   (10 vetted practitioners) + captured primary material (transcripts, posts).
+2. **A repeatable operating playbook** distilled from them, with the claims **audited**
+   so you act on what's true, not what's loud → [`research/playbook.md`](research/playbook.md)
+   + [`research/fact-check.md`](research/fact-check.md).
+3. **Proof it produces real output** — a publishable comparison page in the exact format
+   the research shows wins AI citations → [`research/sample-content/`](research/sample-content/).
+
+In other words: research → verify → synthesize → produce. That loop *is* the modern
+growth-marketing capability, and this repo is one full turn of it.
+
 ### Why this topic
 Of the eight options, this is the one that's useful *beyond* any single job: AI content
 production is the most transferable, future-proof marketing skill, and the underlying
