@@ -128,17 +128,24 @@ The 10 below span the full production pipeline: **scaling** (Ward, Jordan),
 
 | # | Expert | LinkedIn | YouTube transcript | Newsletter/Other |
 |---|--------|----------|--------------------|------------------|
-| 1 | Jake Ward | ☐ | – | ☑ (links) |
-| 2 | Nick Jordan | ☐ | ☑ (1) | ☑ (links) |
-| 3 | Kevin Indig | ☐ | – | ☑ (links) |
-| 4 | Bernard Huang | ☐ | ☑ (2) | ☑ (links) |
+| 1 | Jake Ward | ☑ (2) | – | ☑ (links) |
+| 2 | Nick Jordan | – | ☑ (1) | ☑ (links) |
+| 3 | Kevin Indig | ☑ (2) | – | ☑ (links) |
+| 4 | Bernard Huang | – | ☑ (2) | ☑ (links) |
 | 5 | Koray Gübür | – | ☑ (2) | ☑ (links) |
-| 6 | Eli Schwartz | ☐ | – | ☑ (links) |
-| 7 | Brendan Hufford | ☐ | – | ☑ (links) |
-| 8 | Cyrus Shepard | ☐ | – | ☑ (links) |
+| 6 | Eli Schwartz | – | – | ☑ (links) |
+| 7 | Brendan Hufford | ☑ (2) | – | ☑ (links) |
+| 8 | Cyrus Shepard | – | – | ☑ (links) |
 | 9 | Aleyda Solís | – | ☑ (1) | ☑ (links) |
 | 10 | Gael Breton | – | ☑ (2) | ☑ (links) |
 
+**Totals:** 6 LinkedIn posts (3 experts) · 8 YouTube transcripts (5 experts) ·
+annotated written-content links for all 10.
+
 (☑ = collected, ☐ = pending. YouTube transcripts in `/research/youtube-transcripts/`;
-annotated written-content links in `/research/other/newsletters-and-articles.md`.
-Remaining: manual LinkedIn post collection — see `/research/linkedin-posts/README.md`.)
+LinkedIn posts in `/research/linkedin-posts/`; annotated written-content links in
+`/research/other/newsletters-and-articles.md`. Every expert has at least one piece of
+captured primary content (transcript or LinkedIn post) plus annotated links; Eli
+Schwartz and Cyrus Shepard are represented via the annotated written index. A notable
+**practitioner disagreement** on AEO is captured between `jake-ward/02` and
+`brendan-hufford/02`.)

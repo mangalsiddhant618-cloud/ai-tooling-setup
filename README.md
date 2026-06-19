@@ -44,8 +44,11 @@ scaling) · **Kevin Indig** (ex-Shopify/G2/Atlassian, data) · **Bernard Huang**
   all 10 — [`research/other/newsletters-and-articles.md`](research/other/newsletters-and-articles.md).
 - **A "practitioner vs. packaging" contrast case** (Julian Goldie) documenting how I
   separated signal from sales — [`research/other/practitioner-vs-packaging.md`](research/other/practitioner-vs-packaging.md).
-- **LinkedIn posts** — in progress; collected manually (no free LinkedIn API; scraping
-  violates ToS) into [`research/linkedin-posts/`](research/linkedin-posts/).
+- **6 LinkedIn posts** across 3 experts (Jake Ward ×2, Kevin Indig ×2, Brendan
+  Hufford ×2) — collected manually (no free LinkedIn API; scraping violates ToS), each
+  with verbatim text, permalink, exact date (decoded from the post's activity ID), and a
+  "why this matters" annotation — in [`research/linkedin-posts/`](research/linkedin-posts/).
+  Includes a captured **practitioner disagreement** on AEO (Jake Ward vs. Brendan Hufford).
 
 ### How the transcripts were collected (the "API/technical" part)
 YouTube transcripts were pulled programmatically with the free
