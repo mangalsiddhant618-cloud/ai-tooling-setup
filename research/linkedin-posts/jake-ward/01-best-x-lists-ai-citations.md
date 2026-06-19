@@ -1,13 +1,13 @@
 ---
 expert: Jake Ward
-url: TBD (Jake Ward LinkedIn — recent-activity feed)
-date: 2026 (recent; exact date TBD)
+url: https://www.linkedin.com/posts/jakezward_438-of-ai-citations-come-from-best-x-activity-7470081516916776960-Jv9k
+date: 2026-06-09
 collected: 2026-06-19
 topic: AEO / GEO — earning AI citations via "best X" list pages
 ---
 
 # 43.8% of AI citations come from "best X" lists
-**Jake Ward** · [View post](https://www.linkedin.com/in/jakezward/recent-activity/all/)
+**Jake Ward** · [View post](https://www.linkedin.com/posts/jakezward_438-of-ai-citations-come-from-best-x-activity-7470081516916776960-Jv9k)
 
 ## Post text
 43.8% of AI citations come from "best X" lists.
